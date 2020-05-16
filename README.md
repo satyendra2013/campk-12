@@ -4,9 +4,11 @@ This app is created using react.js which is hosted on heroku at https://campk-12
 
 ## UI development
 
-The UI is natively written in HTML and using Sass, a css preprocessor. For UI development no external library/framework like Bootstrap/Material UI is used.
+The UI is natively written in HTML and using Sass, a css preprocessor.
 
 ## UI Code Repository Link
+
+https://github.com/satyendra2013/CampK-12-UI
 
 ## Future improvement
 
